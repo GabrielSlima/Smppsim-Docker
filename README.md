@@ -17,8 +17,11 @@ You don't need to install it
 
 ## Aditional informations
 1. Host Default: 127.0.0.1
+1. Port to send sms: 2775
+1. Port to access the webapp: 88
 1. User: smppclient1
 1. Passoword: password
+
 
 ## LICENSE
 All files within this repo are released under the MIT (OSI) License - https://en.wikipedia.org/wiki/MIT_License
