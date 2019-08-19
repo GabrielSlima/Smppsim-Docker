@@ -1,0 +1,9 @@
+version: '3'
+
+services:
+  smppsim:
+   build: .
+   image: smppsim
+   ports:
+     - 2775:2775
+     - 88:88
