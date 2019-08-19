@@ -15,6 +15,10 @@ You don't need to install it
     docker-compose -f smppsim.yml up
 ```
 
+## Aditional informations
+1. Host Default: 127.0.0.1
+1. User: smppclient1
+1. Passoword: password
 
 ## LICENSE
 All files within this repo are released under the MIT (OSI) License - https://en.wikipedia.org/wiki/MIT_License
